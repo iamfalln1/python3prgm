@@ -1,7 +1,7 @@
 '''	Functions can be defined using the def <function name>():
 Note: Use proper indentations inside the function.							'''
 def hello():
-	print('Hello World, This is Python 3 Programming');
+	print('Hello World, This is Python 3 Programming'); # atleast one whitespce is needed 
 
 hello();
 
